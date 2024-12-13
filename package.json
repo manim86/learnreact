@@ -1,0 +1,23 @@
+{
+  "name": "mani",
+  "version": "1.0.0",
+  "description": "This is just a learning app.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manim86/learnreact.git"
+  },
+  "keywords": [
+    "React",
+    "Learn"
+  ],
+  "author": "Manikanta M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manim86/learnreact/issues"
+  },
+  "homepage": "https://github.com/manim86/learnreact#readme"
+}
