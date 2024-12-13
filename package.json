@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/manim86/learnreact/issues"
   },
-  "homepage": "https://github.com/manim86/learnreact#readme"
+  "homepage": "https://github.com/manim86/learnreact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
 }
